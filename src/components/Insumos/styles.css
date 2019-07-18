@@ -1,0 +1,44 @@
+.headerStyle {
+  text-align: right;
+}
+
+#tabela {
+  margin-top: 5px;
+}
+
+.pstyle {
+  text-align: left;
+}
+
+.insumoStyle {
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.btnStyle {
+  margin-right: 5px;
+}
+
+.sma1 {
+}
+
+.sma2 {
+  font-style: italic;
+  font-weight: bold;
+}
+
+.sma3 {
+  color: rgb(146, 146, 146);
+}
+
+.ps1 {
+  font-weight: bold;
+}
+
+.td1 {
+  color: rgb(13, 162, 199);
+  font-weight: bold;
+  text-align: right;
+}
